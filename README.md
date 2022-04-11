@@ -6,6 +6,7 @@ The official implementation for the CVPR-2022 paper "Cross-patch Dense Contrasti
 * pytorch >= 1.4.0
 
 ## Citation
+If you find our code useful, please cite our paper.
 ```
 @inproceedings{wu2022cross,
   title={Cross-patch Dense Contrastive Learning for Semi-supervised Segmentation of Cellular Nuclei in Histopathologic Images},
